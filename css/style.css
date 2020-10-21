@@ -1,0 +1,21 @@
+h1{
+    font-size: 50px;
+    color:red; 
+}
+h2{
+    font-size: 20px;
+    color: green; 
+    text-align: right;
+}
+.grande{
+    font-size: 100px;
+}
+.maior{
+    text-transform: uppercase;
+}
+.grande.maior{
+    text-shadow: 6px 6px 8px red;
+}
+h1 span{
+    color:saddlebrown;
+}
